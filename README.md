@@ -1,4 +1,4 @@
-# Chestionar
+# TriviaQuiz
 Displays a general culture quiz in a dialog
 
 # Owner
